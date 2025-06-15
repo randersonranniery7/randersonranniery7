@@ -17,6 +17,9 @@
 <div align="center">
   <img src="https://imgur.com/imq6bKw.gif" width="200">
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Randerson_☕︎-black" />
+</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4908&pause=496&color=8C19FF&center=true&vCenter=true&width=900&height=75&lines=I'm+a+Brazilian+tech+enthusiast+%F0%9F%87%A7%F0%9F%87%B7;I'm+a+student+of+Information+Systems+and+Development.;I%E2%80%99m+currently+focused+on+fullstack+development.;Always+learning%2C+always+building!"alt="Typing SVG"/>
