@@ -56,7 +56,7 @@
   <br>
   <br>
   <img
-    height=165
+    height=154
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com/?user=randersonranniery7&theme=tokyonight&card_width=885"
