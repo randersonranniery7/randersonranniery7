@@ -15,11 +15,10 @@
 I am an undergraduate student in **Information Systems**, focused on building a solid foundation in  
 **software development** and **computer science fundamentals**.
 
-- 🎓 Information Systems student  
-- 💻 Interested in backend and fullstack development  
-- 📘 Focused on clean, maintainable code  
-- 🚀 Always improving through academic and personal projects  
-
+🎓 Information Systems undergraduate  
+- 💻 Interested in **Software Engineering**, **Fullstack Development** and **Programming Fundamentals**
+- 📚 Constantly improving skills through academic projects and personal studies
+- 🚀 Focused on writing clean, maintainable and scalable code
 ---
 
 ## 🛠️ Technical Skills
