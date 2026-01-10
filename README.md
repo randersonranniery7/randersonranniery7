@@ -38,37 +38,6 @@ I am an undergraduate student in **Information Systems**, focused on building a 
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=randersonranniery7&show_icons=true&hide_border=true&theme=dark"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=randersonranniery7&layout=compact&hide_border=true&theme=dark"
-  height="160"
-/>
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=randersonranniery7&theme=dark&hide_border=true"
-  height="160"
-/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
